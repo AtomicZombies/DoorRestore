@@ -1,0 +1,7 @@
+main: "me.cjcrafter.doorrestore.DoorRestore"
+name: "DoorRestore"
+author: "CJCrafter"
+version: "1.0.0"
+api-version: "1.13"
+depend:
+  - MechanicsCore

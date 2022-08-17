@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MechanicsCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/MechanicsCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
